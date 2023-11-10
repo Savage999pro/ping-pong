@@ -1,0 +1,39 @@
+.heading 
+{
+    width: 100%;
+    text-align: left;
+height:80px;
+}
+.heading h3{
+    display: infinite;
+}
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+.big_image
+{
+    width: 100%;
+}
+#instructions{
+    margin-top:-60px;
+    font-size:20px;
+}
+#start{
+    font-size: 22px;
+}
+#start , #status{
+    font-size: 22px;
+}
+.modal-dialog{
+width:90%;
+}
+#footer{
+    background-color:rgb(13, 255, 0);
+    position:fixed;
+    bottom:0;
+    font-size:large;
+    width:100%;
+    line-height:3;
+    color:rgb(0, 0, 0);
+}
